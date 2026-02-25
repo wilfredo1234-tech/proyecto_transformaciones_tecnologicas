@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Transformaciones Tecnológicas | Servicio Técnico en Pereira",
+  title: "Transformaciones Tecnológicas | Servicio Técnico en Cartagena",
   description:
-    "Servicio técnico a domicilio en Pereira. Reparación de televisores y computadores con garantía.",
+    "Servicio técnico a domicilio en Cartagena. Reparación de televisores y computadores con garantía.",
 };
 
 export default function RootLayout({

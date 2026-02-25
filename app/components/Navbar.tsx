@@ -41,10 +41,10 @@ export default function Navbar() {
           {/* Logo (MODIFICADO SOLO ESTA PARTE) */}
           <Link href="/" className="flex flex-col leading-tight">
             <span className="text-lg sm:text-xl font-bold text-gray-900 tracking-wide">
-              electronica-<span className="text-emerald-700">com</span>
+              transformacion-<span className="text-emerald-700">com</span>
             </span>
             <span className="text-[10px] sm:text-xs uppercase tracking-[2px] text-gray-500">
-              electronicaa y sistemas
+              electronica y sistemas
             </span>
           </Link>
 
