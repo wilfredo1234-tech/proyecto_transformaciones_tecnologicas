@@ -38,10 +38,14 @@ export default function Navbar() {
       <div className="border-b border-emerald-100 bg-white">
         <div className="container mx-auto flex h-20 items-center justify-between px-6">
           
-          {/* Logo */}
-          <Link href="/" className="text-xl font-semibold tracking-tight text-gray-900">
-            Transformaciones{" "}
-            <span className="text-emerald-700">Tecnológicas</span>
+          {/* Logo (MODIFICADO SOLO ESTA PARTE) */}
+          <Link href="/" className="flex flex-col leading-tight">
+            <span className="text-lg sm:text-xl font-bold text-gray-900 tracking-wide">
+              electronica-<span className="text-emerald-700">com</span>
+            </span>
+            <span className="text-[10px] sm:text-xs uppercase tracking-[2px] text-gray-500">
+              electronicaa y sistemas
+            </span>
           </Link>
 
           {/* Desktop Menu */}

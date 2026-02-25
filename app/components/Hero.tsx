@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="mt-10 flex flex-col sm:flex-row gap-4">
             
             <Link
-              href="https://wa.me/573000000000"
+              href="https://wa.me/573163392695"
               target="_blank"
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-6 py-3 text-base font-semibold text-white shadow-lg shadow-emerald-600/30 transition hover:bg-emerald-700"
             >
