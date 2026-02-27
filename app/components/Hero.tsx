@@ -10,6 +10,11 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/effect-fade';
 
+type HeroContentProps = {
+  title: string;
+  subtitle: string;
+};
+
 export default function Hero() {
   return (
     <section className="relative h-screen text-white">
@@ -96,7 +101,7 @@ export default function Hero() {
   );
 }
 
-function HeroContent({ title, subtitle }) {
+function HeroContent({ title, subtitle }: HeroContentProps) {
   return (
     <div className="relative z-10 flex items-center justify-center h-full">
       <div className="container mx-auto px-6 text-center max-w-4xl">
