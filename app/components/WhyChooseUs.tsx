@@ -49,7 +49,7 @@ export default function WhyChooseUs() {
         {/* Header */}
         <div className="mx-auto mb-16 max-w-2xl text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white">
-            ¿Por qué elegir Transformaciones Tecnológicas?
+            ¿Por qué elegir Transformacion-com?
           </h2>
           <p className="mt-4 text-lg text-slate-300">
             No solo reparamos equipos, brindamos confianza y respaldo en cada servicio.
